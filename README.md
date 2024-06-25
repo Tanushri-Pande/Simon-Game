@@ -1,6 +1,9 @@
 # Simon-Game
 Welcome to the Simon Game repository! This project is a web-based implementation of the classic memory game, Simon. Test your memory and see how long you can follow the sequence of colors and sounds!
 
+## Image
+images/Screenshot (247).png
+
 ## Description
 Simon Game is a fun and challenging memory game where players must repeat sequences of colors and sounds that increase in length and complexity. This project is built using HTML, CSS, and JavaScript.
 
