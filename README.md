@@ -16,14 +16,19 @@ Simon Game is a fun and challenging memory game where players must repeat sequen
 1. Clone the repository:
    ```bash
    git clone https://github.com/Tanushri-Pande/Simon-Game.git
+   
 2. Navigate to the project directory
    cd Simon-Game
+   
 3.Open index.html in your web browser to start playing.
 
 ## Usage
 1.Press any key to start the game.
+
 2.Follow the sequence of colors and sounds.
+
 3.Repeat the sequence by clicking on the colored buttons.
+
 4.Try to beat your high score by completing as many levels as possible!
 
 
